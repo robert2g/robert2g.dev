@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 706 226">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st1 {
+        fill: #d51d51;
+      }
+
+      .st2 {
+        fill: url(#linear-gradient10);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient9);
+      }
+
+      .st5 {
+        fill: url(#linear-gradient8);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient11);
+      }
+
+      .st7 {
+        fill: url(#linear-gradient12);
+      }
+
+      .st8 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st9 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st10 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st11 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st12 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st13 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="53" y1="106" x2="53" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a01c47"/>
+      <stop offset="1" stop-color="#d51d50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="173" x2="173" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="293" x2="293" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient3" x1="413" x2="413" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient4" x1="533" x2="533" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient5" x1="653" x2="653" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient6" x1="53" y1="120" x2="53" y2="226" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient7" x1="173" y1="120" x2="173" y2="226" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient8" x1="293" y1="120" x2="293" y2="226" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient9" x1="413" y1="120" x2="413" y2="226" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient10" x1="513" y1="120" x2="513" y2="226" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient11" x1="613" y1="120" x2="613" y2="226" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient12" x1="693" y1="200" x2="693" y2="226" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <path class="st13" d="M86,20V0H0v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20ZM80,26v14H26v-14h54Z"/>
+    <path class="st1" d="M83,3v20H23v20h60v-20h20v20h-20v20h20v40h-20v-40H23v40H3V3h80M86,0H0v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20V0h0ZM26,40v-14h54v14H26Z"/>
+  </g>
+  <g>
+    <path class="st3" d="M206,20V0h-66v20h-20v66h20v20h66v-20h20V20h-20ZM200,63v17h-54V26h54v37Z"/>
+    <path class="st1" d="M203,3v20h-60v60h60V23h20v60h-20v20h-60v-20h-20V23h20V3h60M206,0h-66v20h-20v66h20v20h66v-20h20V20h-20V0h0ZM146,80V26h54v54h-54Z"/>
+  </g>
+  <g>
+    <path class="st0" d="M326,20V0h-86v106h86v-20h20v-26h-20v-14h20v-26h-20ZM266,66h54v14h-54v-14ZM283,40h-17v-14h54v14h-37Z"/>
+    <path class="st1" d="M323,3v20h-60v20h60v-20h20v20h-20v20h-60v20h60v-20h20v20h-20v20h-80V3h80M326,0h-86v106h86v-20h20v-26h-20v-14h20v-26h-20V0h0ZM266,40v-14h54v14h-54ZM266,80v-14h54v14h-54Z"/>
+  </g>
+  <g>
+    <path class="st11" d="M443,0h-83v106h106v-26h-80v-14h40v-26h-40v-14h80V0h-23Z"/>
+    <path class="st1" d="M463,3v20h-80v20h40v20h-40v20h80v20h-100V3h100M466,0h-106v106h106v-26h-80v-14h40v-26h-40v-14h80V0h0Z"/>
+  </g>
+  <g>
+    <path class="st9" d="M566,20V0h-86v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20ZM560,26v14h-54v-14h54Z"/>
+    <path class="st1" d="M563,3v20h-60v20h60v-20h20v20h-20v20h20v40h-20v-40h-60v40h-20V3h80M566,0h-86v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20V0h0ZM506,40v-14h54v14h-54Z"/>
+  </g>
+  <g>
+    <path class="st10" d="M683,0h-83v26h40v80h26V26h40V0h-23Z"/>
+    <path class="st1" d="M703,3v20h-40v80h-20V23h-40V3h100M706,0h-106v26h40v80h26V26h40V0h0Z"/>
+  </g>
+  <g>
+    <path class="st12" d="M83,120H20v20H0v66h20v20h86v-66H40v26h40v14H26v-54h80v-26h-23Z"/>
+    <path class="st1" d="M103,123v20H23v60h60v-20h-40v-20h60v60H23v-20H3v-60h20v-20h80M106,120H20v20H0v66h20v20h86v-66H40v26h40v14H26v-54h80v-26h0Z"/>
+  </g>
+  <g>
+    <path class="st8" d="M206,140v-20h-86v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20ZM200,146v14h-54v-14h54Z"/>
+    <path class="st1" d="M203,123v20h-60v20h60v-20h20v20h-20v20h20v40h-20v-40h-60v40h-20v-100h80M206,120h-86v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20v-20h0ZM146,160v-14h54v14h-54Z"/>
+  </g>
+  <g>
+    <path class="st5" d="M326,140v-20h-66v20h-20v86h26v-20h54v20h26v-86h-20ZM266,163v-17h54v34h-54v-17Z"/>
+    <path class="st1" d="M323,123v20h-60v40h60v-40h20v80h-20v-20h-60v20h-20v-80h20v-20h60M326,120h-66v20h-20v86h26v-20h54v20h26v-86h-20v-20h0ZM266,180v-34h54v34h-54Z"/>
+  </g>
+  <g>
+    <path class="st4" d="M446,140v-20h-66v20h-20v66h20v20h66v-20h20v-26h-26v20h-54v-54h54v20h26v-26h-20Z"/>
+    <path class="st1" d="M443,123v20h20v20h-20v-20h-60v60h60v20h-60v-20h-20v-60h20v-20h60M463,183v20h-20v-20h20M446,120h-66v20h-20v66h20v20h66v-20h20v-26h-26v20h-54v-54h54v20h26v-26h-20v-20h0Z"/>
+  </g>
+  <g>
+    <path class="st2" d="M523,120h-43v26h20v54h-20v26h66v-26h-20v-54h20v-26h-23Z"/>
+    <path class="st1" d="M543,123v20h-20v60h20v20h-60v-20h20v-60h-20v-20h60M546,120h-66v26h20v54h-20v26h66v-26h-20v-54h20v-26h0Z"/>
+  </g>
+  <g>
+    <path class="st6" d="M663,140h-17v-20h-66v20h-20v86h26v-20h54v20h26v-86h-3ZM586,163v-17h54v34h-54v-17Z"/>
+    <path class="st1" d="M643,123v20h-60v40h60v-40h20v80h-20v-20h-60v20h-20v-80h20v-20h60M646,120h-66v20h-20v86h26v-20h54v20h26v-86h-20v-20h0ZM586,180v-34h54v34h-54Z"/>
+  </g>
+  <g>
+    <rect class="st7" x="680" y="200" width="26" height="26"/>
+    <path class="st1" d="M703,203v20h-20v-20h20M706,200h-26v26h26v-26h0Z"/>
+  </g>
+</svg>

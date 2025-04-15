@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 708 228">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st1 {
+        fill: #d51d51;
+      }
+
+      .st2 {
+        fill: url(#linear-gradient10);
+      }
+
+      .st3 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient9);
+      }
+
+      .st5 {
+        fill: url(#linear-gradient8);
+      }
+
+      .st6 {
+        fill: url(#linear-gradient11);
+      }
+
+      .st7 {
+        fill: url(#linear-gradient12);
+      }
+
+      .st8 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st9 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st10 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st11 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st12 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st13 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="414" y1="108" x2="414" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#b91e4b"/>
+      <stop offset="1" stop-color="#d51d50"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="654" x2="654" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="174" x2="174" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient3" x1="54" x2="54" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient4" x1="294" x2="294" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient5" x1="534" x2="534" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient6" x1="54" y1="228" x2="54" y2="120" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient7" x1="174" y1="228" x2="174" y2="120" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient8" x1="294" y1="228" x2="294" y2="120" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient9" y1="228" y2="120" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient10" x1="514" y1="228" x2="514" y2="120" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient11" x1="614" y1="228" x2="614" y2="120" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient12" x1="694" y1="228" x2="694" y2="200" xlink:href="#linear-gradient"/>
+  </defs>
+  <g>
+    <polygon class="st13" points="360 108 468 108 468 80 388 80 388 68 448 68 448 40 388 40 388 28 468 28 468 0 360 0 360 108"/>
+    <path class="st1" d="M465.5,2.5v23h-80v17h60v23h-60v17h80v23h-103V2.5h103M468,0h-108v108h108v-28h-80v-12h60v-28h-60v-12h80V0h0Z"/>
+  </g>
+  <g>
+    <polygon class="st3" points="600 0 600 28 640 28 640 108 668 108 668 28 708 28 708 0 600 0"/>
+    <path class="st1" d="M705.5,2.5v23h-40v80h-23V25.5h-40V2.5h103M708,0h-108v28h40v80h28V28h40V0h0Z"/>
+  </g>
+  <g>
+    <path class="st0" d="M208,0h-68v20h-20v68h20v20h68v-20h20V20h-20V0ZM200,80h-52V28h52v52Z"/>
+    <path class="st1" d="M205.5,2.5v20h20v63h-20v20h-63v-20h-20V22.5h20V2.5h63M145.5,82.5h57V25.5h-57v57M208,0h-68v20h-20v68h20v20h68v-20h20V20h-20V0h0ZM148,80V28h52v52h-52Z"/>
+  </g>
+  <g>
+    <path class="st11" d="M88,0H0v108h28v-40h52v40h28v-48h-20v-12h20v-28h-20V0ZM80,40H28v-12h52v12Z"/>
+    <path class="st1" d="M85.5,2.5v20h20v23h-20v17h20v43h-23v-40H25.5v40H2.5V2.5h83M25.5,42.5h57v-17H25.5v17M88,0H0v108h28v-40h52v40h28v-48h-20v-12h20v-28h-20V0h0ZM28,40v-12h52v12H28Z"/>
+  </g>
+  <g>
+    <path class="st9" d="M328,0h-88v108h88v-20h20v-28h-20v-12h20v-28h-20V0ZM320,80h-52v-12h52v12ZM320,40h-52v-12h52v12Z"/>
+    <path class="st1" d="M325.5,2.5v20h20v23h-20v17h20v23h-20v20h-83V2.5h83M265.5,42.5h57v-17h-57v17M265.5,82.5h57v-17h-57v17M328,0h-88v108h88v-20h20v-28h-20v-12h20v-28h-20V0h0ZM268,40v-12h52v12h-52ZM268,80v-12h52v12h-52Z"/>
+  </g>
+  <g>
+    <path class="st10" d="M508,68h52v40h28v-48h-20v-12h20v-28h-20V0h-88v108h28v-40ZM508,28h52v12h-52v-12Z"/>
+    <path class="st1" d="M565.5,2.5v20h20v23h-20v17h20v43h-23v-40h-57v40h-23V2.5h83M505.5,42.5h57v-17h-57v17M568,0h-88v108h28v-40h52v40h28v-48h-20v-12h20v-28h-20V0h0ZM508,40v-12h52v12h-52Z"/>
+  </g>
+  <g>
+    <polygon class="st12" points="20 140 0 140 0 208 20 208 20 228 108 228 108 160 40 160 40 188 80 188 80 200 28 200 28 148 108 148 108 120 20 120 20 140"/>
+    <path class="st1" d="M105.5,122.5v23H25.5v57h57v-17h-40v-23h63v63H22.5v-20H2.5v-63h20v-20h83M108,120H20v20H0v68h20v20h88v-68H40v28h40v12H28v-52h80v-28h0Z"/>
+  </g>
+  <g>
+    <path class="st8" d="M208,120h-88v108h28v-40h52v40h28v-48h-20v-12h20v-28h-20v-20ZM200,160h-52v-12h52v12Z"/>
+    <path class="st1" d="M205.5,122.5v20h20v23h-20v17h20v43h-23v-40h-57v40h-23v-103h83M145.5,162.5h57v-17h-57v17M208,120h-88v108h28v-40h52v40h28v-48h-20v-12h20v-28h-20v-20h0ZM148,160v-12h52v12h-52Z"/>
+  </g>
+  <g>
+    <path class="st5" d="M328,120h-68v20h-20v88h28v-20h52v20h28v-88h-20v-20ZM320,180h-52v-32h52v32Z"/>
+    <path class="st1" d="M325.5,122.5v20h20v83h-23v-20h-57v20h-23v-83h20v-20h63M265.5,182.5h57v-37h-57v37M328,120h-68v20h-20v88h28v-20h52v20h28v-88h-20v-20h0ZM268,180v-32h52v32h-52Z"/>
+  </g>
+  <g>
+    <polygon class="st4" points="448 120 380 120 380 140 360 140 360 208 380 208 380 228 448 228 448 208 468 208 468 180 440 180 440 200 388 200 388 148 440 148 440 168 468 168 468 140 448 140 448 120"/>
+    <path class="st1" d="M445.5,122.5v20h20v23h-23v-20h-57v57h57v-20h23v23h-20v20h-63v-20h-20v-63h20v-20h63M448,120h-68v20h-20v68h20v20h68v-20h20v-28h-28v20h-52v-52h52v20h28v-28h-20v-20h0Z"/>
+  </g>
+  <g>
+    <polygon class="st2" points="480 148 500 148 500 200 480 200 480 228 548 228 548 200 528 200 528 148 548 148 548 120 480 120 480 148"/>
+    <path class="st1" d="M545.5,122.5v23h-20v57h20v23h-63v-23h20v-57h-20v-23h63M548,120h-68v28h20v52h-20v28h68v-28h-20v-52h20v-28h0Z"/>
+  </g>
+  <g>
+    <path class="st6" d="M648,120h-68v20h-20v88h28v-20h52v20h28v-88h-20v-20ZM640,180h-52v-32h52v32Z"/>
+    <path class="st1" d="M645.5,122.5v20h20v83h-23v-20h-57v20h-23v-83h20v-20h63M585.5,182.5h57v-37h-57v37M648,120h-68v20h-20v88h28v-20h52v20h28v-88h-20v-20h0ZM588,180v-32h52v32h-52Z"/>
+  </g>
+  <g>
+    <rect class="st7" x="680" y="200" width="28" height="28"/>
+    <path class="st1" d="M705.5,202.5v23h-23v-23h23M708,200h-28v28h28v-28h0Z"/>
+  </g>
+</svg>
