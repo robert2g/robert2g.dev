@@ -2,9 +2,9 @@ import styles from "./page.module.css";
 
 export default function Home() {
   return (
-      <div className={styles.pageContainer}>
+      <div className={styles.pageBody}>
         <div className={styles.backgroundContainer}></div>
-          <div className={styles.pageBody}>
+          <div className={styles.pageContainer}>
             <h1>Main Page</h1>
           </div>
       </div>

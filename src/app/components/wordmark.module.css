@@ -1,0 +1,16 @@
+.iconFrame .iconSvg {
+    display: inline-block;
+    height: 100%;
+    width: 100%;
+    padding: 0.5rem;
+}
+
+.iconPath {
+    transition: color 0.2s ease-in-out; /* Smooth transition */
+    color: white;
+
+}
+
+.iconFrame:hover .iconPath {
+    color: #d61d50;
+}

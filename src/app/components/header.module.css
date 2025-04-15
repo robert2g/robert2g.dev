@@ -12,17 +12,37 @@
 }
 
 .headerContainer {
-    border: 1px #161620 solid;
+    /*border: 1px #161620 solid;*/
     display: flex;
     max-width: 1600px;
     width: 100%;
     height: auto;
     margin: 0.5rem 2rem;
+    justify-content: space-between;
 }
 
-.logoHeader {
-    padding: 1rem;
+.navButtons {
     display: flex;
+    font-size: 16px;
+    font-weight: 500;
     height: 100%;
-    width: 100%;
+    align-items: center;
+    gap: 2rem;
+    padding: 0.5rem;
+}
+
+.headerLink {
+    border: none;
+    color: white;
+    transition: color 0.2s ease-in-out;
+    background: transparent;
+    text-decoration: none;
+}
+
+.headerLink:hover {
+    color: #d61d50;
+}
+
+.headerLinkActive { /* Cannot use traditional "active" classname due to CSS modules.*/
+    color: #d61d50;
 }
