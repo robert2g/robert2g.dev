@@ -8,7 +8,6 @@
 .iconPath {
     transition: color 0.2s ease-in-out; /* Smooth transition */
     color: white;
-
 }
 
 .iconFrame:hover .iconPath {

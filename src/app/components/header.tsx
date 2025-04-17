@@ -12,9 +12,7 @@ export default function Header() {
   return (
       <div className={`${styles.headerBody}`}>
           <nav className={`${styles.headerContainer}`}>
-              <div className={`${styles.logoContainer}`}>
-                <Wordmark/>
-              </div>
+              <Wordmark/>
 
               <div className={`${styles.navButtons} ${chakraPetch.className}`}>
                   <Link href="/about"
