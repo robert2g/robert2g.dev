@@ -12,7 +12,7 @@
 .footerContainer {
     /*border: 1px #161620 solid;*/
     display: flex;
-    max-width: 1500px;
+    max-width: 1400px;
     width: 100%;
     height: auto;
     margin: 0.5rem 2rem;

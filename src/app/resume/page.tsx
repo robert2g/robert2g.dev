@@ -1,4 +1,5 @@
 import styles from "@/app/page.module.css";
+import {chakraPetch} from "@/app/fonts";
 
 export default function Resume() {
     return (
@@ -7,7 +8,9 @@ export default function Resume() {
             <div className={styles.backgroundContainer}></div>
             <div className={styles.pageContainer}>
                 <div className={styles.contentContainer}>
-                    <h1>Resume Page</h1>
+                    <div className={styles.titleBox}>
+                        <h1 className={`${chakraPetch.className} ${styles.pageTitle}`}>My Resume</h1>
+                    </div>
                 </div>
             </div>
         </div>

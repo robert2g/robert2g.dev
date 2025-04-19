@@ -1,4 +1,5 @@
 import styles from "@/app/page.module.css";
+import {chakraPetch, openSans} from "@/app/fonts";
 
 export default function Skills() {
     return (
@@ -7,7 +8,12 @@ export default function Skills() {
             <div className={styles.backgroundContainer}></div>
             <div className={styles.pageContainer}>
                 <div className={styles.contentContainer}>
-                    <h1>Skills Page</h1>
+                    <div className={styles.titleBox}>
+                        <h1 className={`${chakraPetch.className} ${styles.pageTitle}`}>Skills & Interests</h1>
+                    </div>
+                    <div className={`${styles.contentBox} ${openSans.className}`}>
+                        <p>Text here</p>
+                    </div>
                 </div>
             </div>
         </div>

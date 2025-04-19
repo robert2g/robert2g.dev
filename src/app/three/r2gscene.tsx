@@ -1,7 +1,7 @@
 'use client';
 
 import {Canvas, useFrame, useLoader} from '@react-three/fiber';
-import { OrbitControls, useGLTF } from '@react-three/drei';
+import { useGLTF } from '@react-three/drei';
 import React, {Suspense, useMemo, useRef} from 'react';
 import {Group, TextureLoader} from 'three';
 import { EffectComposer, Bloom, Noise } from '@react-three/postprocessing';
@@ -38,12 +38,16 @@ const GridPlane: React.FC<GridPlaneProps> = ({ texture1, texture0, position }) =
             currentTexture.current = Math.random() > 0.5 ? texture1 : texture0
         }
 
-        opacity.current += (Math.random() - 0.5) * 0.0005
+        opacity.current += (Math.random() - 0.51) * 0.0005
         opacity.current = THREE.MathUtils.clamp(opacity.current, 0, 0.0075)
 
         if (meshRef.current) {
+            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+            // @ts-expect-error
             meshRef.current.material.map = currentTexture.current
             ;(meshRef.current.material as THREE.MeshBasicMaterial).opacity = opacity.current
+            // eslint-disable-next-line @typescript-eslint/ban-ts-comment
+            // @ts-expect-error
             meshRef.current.material.needsUpdate = true
         }
     })
@@ -53,7 +57,7 @@ const GridPlane: React.FC<GridPlaneProps> = ({ texture1, texture0, position }) =
             <planeGeometry args={[0.1, 0.1]} />
             <meshBasicMaterial
                 map={currentTexture.current}
-                transparent
+                transparent={true}
                 opacity={opacity.current}
             />
         </mesh>
@@ -107,7 +111,7 @@ export default function R2GScene() {
                     <Noise opacity={0.25}/>
                     <Bloom intensity={1.0} luminanceThreshold={0.25} luminanceSmoothing={0.1}/>
                 </EffectComposer>
-                {/*<OrbitControls enableZoom={false} enablePan={false}/>*/}
+                {/*<OrbitControls enableZoom={false} enablePan={false}/> I may use this in the future*/}
             </Canvas>
         </div>
     );

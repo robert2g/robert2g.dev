@@ -4,6 +4,5 @@
     width: 100%;
     z-index: -3;
     pointer-events: none;
-    transition: opacity 1s ease-in;
-    opacity: 0.2;
+    opacity: 0.15;
 }

@@ -3,6 +3,7 @@ import "./globals.css";
 import Header from "./components/header";
 import Footer from "./components/footer";
 import R2GScene from "@/app/three/r2gscene";
+import React from "react";
 
 export const metadata: Metadata = {
   title: "Robert Gracia",

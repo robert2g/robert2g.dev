@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 709 109">
+  <!-- Generator: Adobe Illustrator 29.0.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 192)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: #d61d51;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="354.5" y1="107.5" x2="354.5" y2="1.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a11c47"/>
+      <stop offset="1" stop-color="#d61d50"/>
+    </linearGradient>
+  </defs>
+  <path class="st1" d="M87.5,21.5V1.5H1.5v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20ZM81.5,27.5v14H27.5v-14h54ZM207.5,21.5V1.5h-66v20h-20v66h20v20h66v-20h20V21.5h-20ZM201.5,64.5v17h-54V27.5h54v37ZM327.5,21.5V1.5h-86v106h86v-20h20v-26h-20v-14h20v-26h-20ZM267.5,67.5h54v14h-54v-14ZM284.5,41.5h-17v-14h54v14h-37ZM467.5,1.5v26h-80v14h40v26h-40v14h80v26h-106V1.5h106ZM567.5,21.5V1.5h-86v106h26v-40h54v40h26v-46h-20v-14h20v-26h-20ZM561.5,27.5v14h-54v-14h54ZM707.5,1.5v26h-40v80h-26V27.5h-40V1.5h106Z"/>
+  <path class="st0" d="M109,109h-29v-40H29v40H0V0h89v20h20v29h-20v11h20v49ZM83,106h23v-43h-20v-17h20v-23h-20V3H3v103h23v-40h57v40ZM83,43H26v-17h57v17ZM29,40h51v-11H29v11ZM209,109h-69v-20h-20V20h20V0h69v20h20v69h-20v20ZM143,106h63v-20h20V23h-20V3h-63v20h-20v63h20v20ZM203,83h-57V26h57v57ZM149,80h51V29h-51v51ZM329,109h-89V0h89v20h20v29h-20v11h20v29h-20v20ZM243,106h83v-20h20v-23h-20v-17h20v-23h-20V3h-83v103ZM323,83h-57v-17h57v17ZM269,80h51v-11h-51v11ZM323,43h-57v-17h57v17ZM269,40h51v-11h-51v11ZM469,109h-109V0h109v29h-80v11h40v29h-40v11h80v29ZM363,106h103v-23h-80v-17h40v-23h-40v-17h80V3h-103v103ZM589,109h-29v-40h-51v40h-29V0h89v20h20v29h-20v11h20v49ZM563,106h23v-43h-20v-17h20v-23h-20V3h-83v103h23v-40h57v40ZM563,43h-57v-17h57v17ZM509,40h51v-11h-51v11ZM669,109h-29V29h-40V0h109v29h-40v80ZM643,106h23V26h40V3h-103v23h40v80Z"/>
+</svg>

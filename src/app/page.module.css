@@ -2,7 +2,7 @@
   /*border: 1px solid #171717;*/
   align-items: center;
   justify-items: center;
-  min-height: inherit;
+  min-height: 100vh;
   background: transparent;
   position: relative;
   z-index: 0;
@@ -13,7 +13,7 @@
   position: absolute;
   height: 100%;
   width: 100%;
-  background-image: url("../../public/graphics/background_pattern_1.png");
+  background-image: url("../../public/graphics/hud_plus.png");
   background-size: 4rem 4rem;
   background-position: 0 0;
   mask-image: linear-gradient(to right, transparent 0%, #0c0c10 40%, #0c0c10 60%, transparent 100%);
@@ -26,7 +26,7 @@
   position: absolute;
   height: 100%;
   width: 100%;
-  background-image: url("../../public/graphics/background_pattern_2.png");
+  background-image: url("../../public/graphics/background_object_31.png");
   background-size: 1rem 1rem;
   background-position: 0 0;
   mask-image: linear-gradient(to right, transparent 0%, #0c0c10 40%, #0c0c10 60%, transparent 100%);
@@ -47,7 +47,6 @@
 .pageContainer {
   display: flex;
   z-index: 2;
-  min-height: 128rem;
   width: 100%;
   justify-content: center;
 }
@@ -55,20 +54,55 @@
 .contentContainer {
   /*border: 1px #161620 solid;*/
   margin: 1rem 2rem;
-  padding: 0.5rem;
-  max-width: 1500px;
+  max-width: 1200px;
   width: 100%;
   transition: opacity 0.5s ease-in-out;
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 
 .contentBox {
   background: #0c0c10;
   border: 1px #161620 solid;
   border-radius: 0.5rem;
+  padding: 1rem;
+}
+
+.headerBox {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  height: 80vh;
+}
+
+.titleBox {
+  display: flex;
+  justify-content: center;
   padding: 0.5rem;
 }
 
-.heroBox {
-  height: 80rem;
+.svgName {
+  display: flex;
+  filter: drop-shadow(0 0 0.25rem #a8113a);
+  width: 90%;
 }
 
+.pageTitle {
+  font-size: 5rem;
+  font-weight: 700;
+  background: linear-gradient(90deg, #a11c47, #d61d50);
+  filter: drop-shadow(0 0 0.25rem #a8113a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
